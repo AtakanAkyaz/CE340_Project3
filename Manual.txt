@@ -1,0 +1,7 @@
+You don't have to enter anything to execute code it does not require ant input 
+At the current station the code is using pre calculated keys to calculate new keys You have to do :
+!!! WARNINIG !!! : since my computer can't calculate many many prime numbers i limited prime numbers from 0 to 200 . 
+So if You are not going to use pre calculated number , to find proper KEY s you have to run code many times
+	1.add """ to line 189
+	2.remove """ from line 217
+	
